@@ -5,7 +5,6 @@ import {
   FaBirthdayCake,
   FaEnvelope,
   FaGraduationCap,
-  FaLocationArrow,
   FaPhone,
 } from "react-icons/fa";
 import { MdExpandMore } from "react-icons/md";
