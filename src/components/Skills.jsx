@@ -15,48 +15,48 @@ const Skills = () => {
   const skills = [
     {
       id: 1,
-      title: "HTML5",
-      src: html,
-    },
-    {
-      id: 2,
-      title: "CSS3",
-      src: css,
-    },
-    {
-      id: 3,
-      title: "JavaScript",
-      src: javascript,
-    },
-    {
-      id: 4,
-      title: "Bootstrap 5",
-      src: bootstrap,
-    },
-    {
-      id: 5,
-      title: "Tailwind CSS",
-      src: tailwind,
-    },
-    {
-      id: 6,
       title: "React JS",
       src: react,
     },
     {
-      id: 7,
+      id: 2,
       title: "Next JS",
       src: next,
     },
     {
-      id: 8,
+      id: 3,
       title: "Node JS",
       src: node,
     },
     {
-      id: 9,
+      id: 4,
+      title: "Tailwind CSS",
+      src: tailwind,
+    },
+    {
+      id: 5,
+      title: "Bootstrap 5",
+      src: bootstrap,
+    },
+    {
+      id: 6,
       title: "Github",
       src: github,
+    },
+    {
+      id: 7,
+      title: "JavaScript",
+      src: javascript,
+    },
+    {
+      id: 8,
+      title: "CSS3",
+      src: css,
+    },
+    {
+      id: 9,
+      title: "HTML5",
+      src: html,
     },
   ];
   return (
