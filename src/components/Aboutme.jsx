@@ -32,7 +32,7 @@ const Aboutme = () => {
                 organization which provides me the opportunity to improve my
                 skills and knowledge.I combine my web development skills to
                 produce and design creative and effective web applications. I
-                enjoy turning complex problems into simple, beautifull and
+                enjoy turning complex problems into simple, beautiful and
                 intuitive solutions
               </p>
               <div className="flex items-center justify-center gap-10">
